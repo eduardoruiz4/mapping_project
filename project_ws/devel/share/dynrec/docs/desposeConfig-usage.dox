@@ -1,0 +1,10 @@
+\subsubsection usage Usage
+\verbatim
+<node name="dynrec" pkg="dynrec" type="dynrec">
+  <param name="x" type="double" value="0.5" />
+  <param name="y" type="double" value="0.5" />
+  <param name="z" type="double" value="0.5" />
+  <param name="print_screen" type="bool" value="True" />
+</node>
+\endverbatim
+

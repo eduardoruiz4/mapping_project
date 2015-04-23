@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "msg")
+set(msg_MAINTAINER "arull <arull@todo.todo>")
+set(msg_DEPRECATED "")
+set(msg_VERSION "0.0.0")
+set(msg_BUILD_DEPENDS "message_generation" "roscpp" "rospy" "std_msgs")
+set(msg_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime")
+set(msg_BUILDTOOL_DEPENDS "catkin")

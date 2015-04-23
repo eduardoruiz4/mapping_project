@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "intro_ros_2015")
+set(intro_ros_2015_MAINTAINER "asantamaria <asantamaria@todo.todo>")
+set(intro_ros_2015_DEPRECATED "")
+set(intro_ros_2015_VERSION "0.0.0")
+set(intro_ros_2015_BUILD_DEPENDS )
+set(intro_ros_2015_RUN_DEPENDS "simple_node" "simple_publisher" "simple_subscriber" "service_client" "service_server" "action_client" "action_server" "dynrec_node" "poserror_node")
+set(intro_ros_2015_BUILDTOOL_DEPENDS "catkin")

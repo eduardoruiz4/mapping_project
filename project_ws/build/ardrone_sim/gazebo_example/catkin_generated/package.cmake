@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "gazebo_example")
+set(gazebo_example_MAINTAINER "asantamaria <asantamaria@todo.todo>")
+set(gazebo_example_DEPRECATED "")
+set(gazebo_example_VERSION "0.0.0")
+set(gazebo_example_BUILD_DEPENDS )
+set(gazebo_example_RUN_DEPENDS )
+set(gazebo_example_BUILDTOOL_DEPENDS "catkin")

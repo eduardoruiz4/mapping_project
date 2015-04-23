@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "proj_itr")
+set(proj_itr_MAINTAINER "eduardorz <eduardorz@todo.todo>")
+set(proj_itr_DEPRECATED "")
+set(proj_itr_VERSION "0.0.0")
+set(proj_itr_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(proj_itr_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(proj_itr_BUILDTOOL_DEPENDS "catkin")

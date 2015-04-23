@@ -1,0 +1,8 @@
+prefix=/home/eduardorz/project_ws/devel
+
+Name: simple_node
+Description: Description of simple_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eduardorz/project_ws/devel/lib 
+Requires: 

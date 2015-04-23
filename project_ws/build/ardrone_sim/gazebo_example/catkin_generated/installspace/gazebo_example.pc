@@ -1,0 +1,8 @@
+prefix=/home/eduardorz/project_ws/install
+
+Name: gazebo_example
+Description: Description of gazebo_example
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eduardorz/project_ws/install/lib 
+Requires: 
