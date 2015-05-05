@@ -537,7 +537,7 @@ rosgraph_msgs_DIR:PATH=/opt/ros/hydro/share/rosgraph_msgs/cmake
 roslib_DIR:PATH=/opt/ros/hydro/share/roslib/cmake
 
 //The directory containing a CMake configuration file for roslint.
-roslint_DIR:PATH=roslint_DIR-NOTFOUND
+roslint_DIR:PATH=/opt/ros/hydro/share/roslint/cmake
 
 //The directory containing a CMake configuration file for rospy.
 rospy_DIR:PATH=/opt/ros/hydro/share/rospy/cmake
@@ -727,7 +727,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=16
+CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=17
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

@@ -385,48 +385,6 @@ pcl_msgs_generate_messages_py/fast:
 .PHONY : pcl_msgs_generate_messages_py/fast
 
 # Convenience name for target.
-tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_cpp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_cpp.dir/rule
-.PHONY : tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-std_srvs_generate_messages_cpp: tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_cpp.dir/rule
-.PHONY : std_srvs_generate_messages_cpp
-
-# fast build rule for target.
-std_srvs_generate_messages_cpp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_cpp.dir/build.make tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_cpp.dir/build
-.PHONY : std_srvs_generate_messages_cpp/fast
-
-# Convenience name for target.
-tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_lisp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_lisp.dir/rule
-.PHONY : tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-std_srvs_generate_messages_lisp: tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_lisp.dir/rule
-.PHONY : std_srvs_generate_messages_lisp
-
-# fast build rule for target.
-std_srvs_generate_messages_lisp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_lisp.dir/build.make tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_lisp.dir/build
-.PHONY : std_srvs_generate_messages_lisp/fast
-
-# Convenience name for target.
-tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_py.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_py.dir/rule
-.PHONY : tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-std_srvs_generate_messages_py: tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_py.dir/rule
-.PHONY : std_srvs_generate_messages_py
-
-# fast build rule for target.
-std_srvs_generate_messages_py/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_py.dir/build.make tum_simulator/cvg_sim_gazebo/CMakeFiles/std_srvs_generate_messages_py.dir/build
-.PHONY : std_srvs_generate_messages_py/fast
-
-# Convenience name for target.
 tum_simulator/cvg_sim_gazebo/CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/rule:
 	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/cvg_sim_gazebo/CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/rule
 .PHONY : tum_simulator/cvg_sim_gazebo/CMakeFiles/trajectory_msgs_generate_messages_cpp.dir/rule
@@ -497,9 +455,6 @@ help:
 	@echo "... pcl_msgs_generate_messages_lisp"
 	@echo "... pcl_msgs_generate_messages_py"
 	@echo "... rebuild_cache"
-	@echo "... std_srvs_generate_messages_cpp"
-	@echo "... std_srvs_generate_messages_lisp"
-	@echo "... std_srvs_generate_messages_py"
 	@echo "... test"
 	@echo "... trajectory_msgs_generate_messages_cpp"
 	@echo "... trajectory_msgs_generate_messages_lisp"

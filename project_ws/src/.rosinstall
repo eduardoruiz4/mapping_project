@@ -1,4 +1,4 @@
 - git: {local-name: tum_simulator, uri: 'https://github.com/tum-vision/tum_simulator.git'}
 - git: {local-name: ardrone_sim, uri: 'https://asantamaria@bitbucket.org/asantamaria/intro_ros_2015.git'}
-- git: {local-name: ardrone_autonomy, uri: 'https://github.com/AutonomyLab/ardrone_autonomy.git'}
+- git: {local-name: ardrone_autonomy, uri: 'https://github.com/AutonomyLab/ardrone_autonomy'}
 - git: {local-name: ar_tools, uri: 'https://github.com/xqms/ar_tools.git'}

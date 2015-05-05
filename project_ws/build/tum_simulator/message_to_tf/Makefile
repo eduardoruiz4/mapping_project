@@ -202,132 +202,6 @@ nav_msgs_generate_messages_py/fast:
 	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/nav_msgs_generate_messages_py.dir/build.make tum_simulator/message_to_tf/CMakeFiles/nav_msgs_generate_messages_py.dir/build
 .PHONY : nav_msgs_generate_messages_py/fast
 
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_cpp: tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
-.PHONY : sensor_msgs_generate_messages_cpp
-
-# fast build rule for target.
-sensor_msgs_generate_messages_cpp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
-.PHONY : sensor_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_lisp: tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
-.PHONY : sensor_msgs_generate_messages_lisp
-
-# fast build rule for target.
-sensor_msgs_generate_messages_lisp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
-.PHONY : sensor_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-sensor_msgs_generate_messages_py: tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
-.PHONY : sensor_msgs_generate_messages_py
-
-# fast build rule for target.
-sensor_msgs_generate_messages_py/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make tum_simulator/message_to_tf/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
-.PHONY : sensor_msgs_generate_messages_py/fast
-
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_cpp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_cpp.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-tf2_msgs_generate_messages_cpp: tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_cpp.dir/rule
-.PHONY : tf2_msgs_generate_messages_cpp
-
-# fast build rule for target.
-tf2_msgs_generate_messages_cpp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_cpp.dir/build.make tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_cpp.dir/build
-.PHONY : tf2_msgs_generate_messages_cpp/fast
-
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_lisp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_lisp.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-tf2_msgs_generate_messages_lisp: tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_lisp.dir/rule
-.PHONY : tf2_msgs_generate_messages_lisp
-
-# fast build rule for target.
-tf2_msgs_generate_messages_lisp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_lisp.dir/build.make tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_lisp.dir/build
-.PHONY : tf2_msgs_generate_messages_lisp/fast
-
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_py.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_py.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_py.dir/rule
-
-# Convenience name for target.
-tf2_msgs_generate_messages_py: tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_py.dir/rule
-.PHONY : tf2_msgs_generate_messages_py
-
-# fast build rule for target.
-tf2_msgs_generate_messages_py/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_py.dir/build.make tum_simulator/message_to_tf/CMakeFiles/tf2_msgs_generate_messages_py.dir/build
-.PHONY : tf2_msgs_generate_messages_py/fast
-
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_cpp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_cpp.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-tf_generate_messages_cpp: tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_cpp.dir/rule
-.PHONY : tf_generate_messages_cpp
-
-# fast build rule for target.
-tf_generate_messages_cpp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_cpp.dir/build.make tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_cpp.dir/build
-.PHONY : tf_generate_messages_cpp/fast
-
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_lisp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_lisp.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-tf_generate_messages_lisp: tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_lisp.dir/rule
-.PHONY : tf_generate_messages_lisp
-
-# fast build rule for target.
-tf_generate_messages_lisp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_lisp.dir/build.make tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_lisp.dir/build
-.PHONY : tf_generate_messages_lisp/fast
-
-# Convenience name for target.
-tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_py.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_py.dir/rule
-.PHONY : tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_py.dir/rule
-
-# Convenience name for target.
-tf_generate_messages_py: tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_py.dir/rule
-.PHONY : tf_generate_messages_py
-
-# fast build rule for target.
-tf_generate_messages_py/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_py.dir/build.make tum_simulator/message_to_tf/CMakeFiles/tf_generate_messages_py.dir/build
-.PHONY : tf_generate_messages_py/fast
-
 src/message_to_tf.o: src/message_to_tf.cpp.o
 .PHONY : src/message_to_tf.o
 
@@ -368,16 +242,7 @@ help:
 	@echo "... nav_msgs_generate_messages_lisp"
 	@echo "... nav_msgs_generate_messages_py"
 	@echo "... rebuild_cache"
-	@echo "... sensor_msgs_generate_messages_cpp"
-	@echo "... sensor_msgs_generate_messages_lisp"
-	@echo "... sensor_msgs_generate_messages_py"
 	@echo "... test"
-	@echo "... tf2_msgs_generate_messages_cpp"
-	@echo "... tf2_msgs_generate_messages_lisp"
-	@echo "... tf2_msgs_generate_messages_py"
-	@echo "... tf_generate_messages_cpp"
-	@echo "... tf_generate_messages_lisp"
-	@echo "... tf_generate_messages_py"
 	@echo "... src/message_to_tf.o"
 	@echo "... src/message_to_tf.i"
 	@echo "... src/message_to_tf.s"

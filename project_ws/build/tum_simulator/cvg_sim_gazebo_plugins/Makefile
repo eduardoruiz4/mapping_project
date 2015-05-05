@@ -147,48 +147,6 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_cpp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_cpp.dir/rule
-.PHONY : tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-ardrone_autonomy_generate_messages_cpp: tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_cpp.dir/rule
-.PHONY : ardrone_autonomy_generate_messages_cpp
-
-# fast build rule for target.
-ardrone_autonomy_generate_messages_cpp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_cpp.dir/build.make tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_cpp.dir/build
-.PHONY : ardrone_autonomy_generate_messages_cpp/fast
-
-# Convenience name for target.
-tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_lisp.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_lisp.dir/rule
-.PHONY : tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-ardrone_autonomy_generate_messages_lisp: tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_lisp.dir/rule
-.PHONY : ardrone_autonomy_generate_messages_lisp
-
-# fast build rule for target.
-ardrone_autonomy_generate_messages_lisp/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_lisp.dir/build.make tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_lisp.dir/build
-.PHONY : ardrone_autonomy_generate_messages_lisp/fast
-
-# Convenience name for target.
-tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_py.dir/rule:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_py.dir/rule
-.PHONY : tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_py.dir/rule
-
-# Convenience name for target.
-ardrone_autonomy_generate_messages_py: tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_py.dir/rule
-.PHONY : ardrone_autonomy_generate_messages_py
-
-# fast build rule for target.
-ardrone_autonomy_generate_messages_py/fast:
-	cd /home/eduardorz/project_ws/build && $(MAKE) -f tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_py.dir/build.make tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/ardrone_autonomy_generate_messages_py.dir/build
-.PHONY : ardrone_autonomy_generate_messages_py/fast
-
-# Convenience name for target.
 tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/cvg_sim_gazebo_plugins_gencpp.dir/rule:
 	cd /home/eduardorz/project_ws/build && $(MAKE) -f CMakeFiles/Makefile2 tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/cvg_sim_gazebo_plugins_gencpp.dir/rule
 .PHONY : tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/cvg_sim_gazebo_plugins_gencpp.dir/rule
@@ -672,9 +630,6 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... ardrone_autonomy_generate_messages_cpp"
-	@echo "... ardrone_autonomy_generate_messages_lisp"
-	@echo "... ardrone_autonomy_generate_messages_py"
 	@echo "... cvg_sim_gazebo_plugins_gencpp"
 	@echo "... cvg_sim_gazebo_plugins_generate_messages"
 	@echo "... cvg_sim_gazebo_plugins_generate_messages_cpp"

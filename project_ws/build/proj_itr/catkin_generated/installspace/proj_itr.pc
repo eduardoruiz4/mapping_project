@@ -3,6 +3,6 @@ prefix=/home/eduardorz/project_ws/install
 Name: proj_itr
 Description: Description of proj_itr
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/eduardorz/project_ws/install/include
 Libs: -L/home/eduardorz/project_ws/install/lib 
-Requires: 
+Requires: roscpp rospy std_msgs message_runtime
