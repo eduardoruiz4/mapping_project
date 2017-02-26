@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "action")
-set(action_MAINTAINER "asantamaria <asantamaria@todo.todo>")
-set(action_DEPRECATED "")
-set(action_VERSION "0.0.0")
-set(action_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "action_lib" "actionlib_msgs" "actionlib_tutorials")
-set(action_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "action_lib" "actionlib_msgs" "actionlib_tutorials")
-set(action_BUILDTOOL_DEPENDS "catkin")

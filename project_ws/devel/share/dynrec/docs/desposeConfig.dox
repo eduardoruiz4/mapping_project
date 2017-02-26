@@ -1,9 +1,0 @@
-\subsubsection parameters ROS parameters
-
-Reads and maintains the following parameters on the ROS server
-
-- \b "~x" : \b [double] Desired X (m) min: 0.0, default: 0.5, max: 2.0
-- \b "~y" : \b [double] Desired Y (m) min: 0.0, default: 0.5, max: 2.0
-- \b "~z" : \b [double] Desired Z (m) min: 0.0, default: 0.5, max: 2.0
-- \b "~print_screen" : \b [bool] Enable print of position error in the terminal min: False, default: True, max: True
-

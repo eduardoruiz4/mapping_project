@@ -1,1 +1,0 @@
-ardrone_autonomy:ardrone_sim/action:ardrone_sim/ardrone_sim:ardrone_sim/dynrec:ardrone_sim/gazebo_example:ardrone_sim/intro_ros_2015:ardrone_sim/msg:ardrone_sim/service:ardrone_sim/simple_node:proj_itr:tum_simulator/cvg_sim_gazebo:tum_simulator/cvg_sim_gazebo_plugins:tum_simulator/cvg_sim_msgs:tum_simulator/message_to_tf:tum_simulator/tum_simulator

@@ -1,8 +1,0 @@
-prefix=/home/eduardorz/project_ws/devel
-
-Name: ardrone_sim
-Description: Description of ardrone_sim
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/eduardorz/project_ws/devel/lib 
-Requires: 

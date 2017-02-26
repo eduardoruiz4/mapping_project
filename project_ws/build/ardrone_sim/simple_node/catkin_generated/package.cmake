@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "simple_node")
-set(simple_node_MAINTAINER "arull <arull@todo.todo>")
-set(simple_node_DEPRECATED "")
-set(simple_node_VERSION "0.0.0")
-set(simple_node_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
-set(simple_node_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
-set(simple_node_BUILDTOOL_DEPENDS "catkin")

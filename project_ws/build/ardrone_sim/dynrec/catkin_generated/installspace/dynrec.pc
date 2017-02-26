@@ -1,8 +1,0 @@
-prefix=/home/eduardorz/project_ws/install
-
-Name: dynrec
-Description: Description of dynrec
-Version: 0.0.0
-Cflags: -I/home/eduardorz/project_ws/install/include
-Libs: -L/home/eduardorz/project_ws/install/lib 
-Requires: 

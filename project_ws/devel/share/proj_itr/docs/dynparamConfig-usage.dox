@@ -1,8 +1,0 @@
-\subsubsection usage Usage
-\verbatim
-<node name="proj_itr" pkg="proj_itr" type="proj_itr">
-  <param name="takeOff" type="bool" value="False" />
-  <param name="landing" type="bool" value="False" />
-</node>
-\endverbatim
-

@@ -1,8 +1,0 @@
-prefix=/home/eduardorz/project_ws/install
-
-Name: action
-Description: Description of action
-Version: 0.0.0
-Cflags: -I/home/eduardorz/project_ws/install/include -I/usr/include
-Libs: -L/home/eduardorz/project_ws/install/lib -l:/usr/lib/libboost_system-mt.so
-Requires: roscpp rospy std_msgs actionlib_msgs
