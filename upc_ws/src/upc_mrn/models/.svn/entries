@@ -1,0 +1,101 @@
+10
+
+dir
+14009
+https://devel.iri.upc.edu/pub/labrobotica/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/models
+https://devel.iri.upc.edu/pub/labrobotica
+
+
+
+2015-05-08T10:57:20.486614Z
+13897
+fherrero
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+224674b8-e365-4e73-a4a8-558dbbfec58c
+
+jersey_barrier
+dir
+
+etseib_2pis
+dir
+
+database.config
+file
+
+
+
+
+2015-05-12T12:29:45.864895Z
+d61d08220827b03563b5eb3800aa88b0
+2015-05-08T10:57:20.486614Z
+13897
+fherrero
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+816
+
+cube_20k
+dir
+
+worlds
+dir
+
+ground_plane
+dir
+
+maze1
+dir
+
+scene1
+dir
+
+scene2
+dir
+
+dumpster
+dir
+
+small_room
+dir
+
+iri_lab_robotica_mobil
+dir
+
+playground_limits
+dir
+
+sun
+dir
+

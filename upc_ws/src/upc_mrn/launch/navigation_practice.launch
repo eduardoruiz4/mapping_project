@@ -1,0 +1,9 @@
+<!-- -->
+<launch>
+
+  <include file="$(find upc_mrn)/launch/includes/move_base_local.launch.xml"/>
+  <param name="/move_base/base_global_planner" value="carrot_planner/CarrotPlanner"/>
+  
+  <include file="$(find upc_mrn)/launch/includes/fake_localization.launch.xml" />
+
+</launch>

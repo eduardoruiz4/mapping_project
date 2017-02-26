@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "upc_mrn")
+set(upc_mrn_MAINTAINER "labrobotica <labrobotica@iri.upc.edu>")
+set(upc_mrn_DEPRECATED "")
+set(upc_mrn_VERSION "1.0.0")
+set(upc_mrn_BUILD_DEPENDS "move_base_msgs" "roscpp" "rospy" "action_lib" "tf" "sensor_msgs" "visualization_msgs" "nav_msgs" "geometry_msgs")
+set(upc_mrn_RUN_DEPENDS "move_base_msgs" "roscpp" "rospy" "action_lib" "tf" "sensor_msgs" "visualization_msgs" "nav_msgs" "geometry_msgs")
+set(upc_mrn_BUILDTOOL_DEPENDS "catkin")

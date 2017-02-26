@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<model>
+  <name>Mobile Robotics and Navigation Exercise</name>
+  <version>1.0</version>
+  <sdf version="1.4">playground_limits.sdf</sdf>
+
+  <author>
+    <name>Fernando Herrero Cotarelo</name>
+    <email>fherrero@iri.upc.edu</email>
+  </author>
+
+  <description>
+    Square wall limits for playground
+  </description>
+</model>

@@ -1,0 +1,6 @@
+#bashrc bottom lines
+source /opt/ros/hydro/setup.bash 
+source ~/upc_ws/devel/setup.bash
+source /usr/share/gazebo/setup.sh
+export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:~/upc_ws/src/upc_mrn/models
+export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:~/upc_ws/src/upc_mrn/models

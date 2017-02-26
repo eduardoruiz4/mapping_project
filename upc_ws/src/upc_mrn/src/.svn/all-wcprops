@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pub/labrobotica/!svn/ver/13904/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/src
+END
+talker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pub/labrobotica/!svn/ver/13642/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/src/talker.cpp
+END
+findgoal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pub/labrobotica/!svn/ver/13749/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/src/findgoal.cpp
+END
+goalsender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pub/labrobotica/!svn/ver/13771/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/src/goalsender.cpp
+END
+exploration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pub/labrobotica/!svn/ver/13904/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/src/exploration.cpp
+END
+listener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pub/labrobotica/!svn/ver/13642/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/src/listener.cpp
+END

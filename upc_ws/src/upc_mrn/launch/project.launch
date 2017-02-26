@@ -1,0 +1,14 @@
+<!-- -->
+<launch>
+
+  <include file="$(find upc_mrn)/launch/turtlebot_world.launch">
+    <arg name="world" value="$(find upc_mrn)/models/worlds/scene1.world"/>
+  </include>
+
+  <include file="$(find upc_mrn)/launch/includes/move_base.launch.xml" />
+
+  <include file="$(find upc_mrn)/launch/includes/gmapping.launch.xml" />
+
+  <node pkg="rviz" type="rviz" name="rviz" args="-d $(find upc_mrn)/config/exploration.rviz"/>
+
+</launch>

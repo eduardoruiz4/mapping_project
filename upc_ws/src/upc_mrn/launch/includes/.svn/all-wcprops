@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pub/labrobotica/!svn/ver/13877/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/includes
+END
+amcl.launch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pub/labrobotica/!svn/ver/13506/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/includes/amcl.launch.xml
+END
+fake_localization.launch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/pub/labrobotica/!svn/ver/13533/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/includes/fake_localization.launch.xml
+END
+move_base.launch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/pub/labrobotica/!svn/ver/13533/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/includes/move_base.launch.xml
+END
+gmapping.launch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/pub/labrobotica/!svn/ver/13877/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/includes/gmapping.launch.xml
+END
+map_server.launch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/pub/labrobotica/!svn/ver/13571/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/includes/map_server.launch.xml
+END
+gmapping_light.launch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/pub/labrobotica/!svn/ver/13798/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/includes/gmapping_light.launch.xml
+END
+move_base_local.launch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/pub/labrobotica/!svn/ver/13533/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/includes/move_base_local.launch.xml
+END

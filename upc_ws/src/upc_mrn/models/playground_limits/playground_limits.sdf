@@ -1,0 +1,122 @@
+<?xml version='1.0'?>
+<sdf version='1.4'>
+  <model name='playground_limits'>
+    <link name='Wall_right'>
+      <collision name='Wall_right_Collision'>
+        <geometry>
+          <box>
+            <size>10.0 0 1</size>
+          </box>
+        </geometry>
+        <pose>0 0 0 0 0 0</pose>
+      </collision>
+      <visual name='Wall_right_Visual'>
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>10.0 0 1</size>
+          </box>
+        </geometry>
+        <material>
+          <script>
+            <uri>file://media/materials/scripts/gazebo.material</uri>
+            <name>Gazebo/WhiteGlow</name>
+          </script>
+        </material>
+      </visual>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <pose>-2.0 4.0 0 0 0 0</pose>
+    </link>
+    <link name='Wall_left'>
+      <collision name='Wall_left_Collision'>
+        <geometry>
+          <box>
+            <size>10.0 0 1</size>
+          </box>
+        </geometry>
+        <pose>0 0 0 0 0 0</pose>
+      </collision>
+      <visual name='Wall_left_Visual'>
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>10.0 0 1</size>
+          </box>
+        </geometry>
+        <material>
+          <script>
+            <uri>file://media/materials/scripts/gazebo.material</uri>
+            <name>Gazebo/WhiteGlow</name>
+          </script>
+        </material>
+      </visual>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <pose>-2.0 -6.0 0 0 0 0</pose>
+    </link>  
+    <link name='Wall_back'>
+      <collision name='Wall_back_Collision'>
+        <geometry>
+          <box>
+            <size>10.0 0 1</size>
+          </box>
+        </geometry>
+        <pose>0 0 0 0 0 0</pose>
+      </collision>
+      <visual name='Wall_back_Visual'>
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>10.0 0 1</size>
+          </box>
+        </geometry>
+        <material>
+          <script>
+            <uri>file://media/materials/scripts/gazebo.material</uri>
+            <name>Gazebo/WhiteGlow</name>
+          </script>
+        </material>
+      </visual>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <pose>3.0 -1.0 0 0 0 1.57079632679</pose>
+    </link>   
+    <link name='Wall_outside'>
+      <collision name='Wall_outside_Collision'>
+        <geometry>
+          <box>
+            <size>10.0 0 1</size>
+          </box>
+        </geometry>
+        <pose>0 0 0 0 0 0</pose>
+      </collision>
+      <visual name='Wall_outside_Visual'>
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>10.0 0 1</size>
+          </box>
+        </geometry>
+        <material>
+          <script>
+            <uri>file://media/materials/scripts/gazebo.material</uri>
+            <name>Gazebo/WhiteGlow</name>
+          </script>
+        </material>
+      </visual>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <pose>-7.0 -1.0 0 0 0 1.57079632679</pose>
+    </link>  
+    <static>1</static>
+  </model>
+</sdf>

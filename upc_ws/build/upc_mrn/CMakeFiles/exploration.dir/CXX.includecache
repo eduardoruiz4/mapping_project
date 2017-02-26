@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eduardorz/upc_ws/src/upc_mrn/src/exploration.cpp
+termios.h
+-
+stdio.h
+-
+ros/ros.h
+-
+vector
+-
+algorithm
+-
+nav_msgs/OccupancyGrid.h
+/home/eduardorz/upc_ws/src/upc_mrn/src/nav_msgs/OccupancyGrid.h
+geometry_msgs/PoseStamped.h
+/home/eduardorz/upc_ws/src/upc_mrn/src/geometry_msgs/PoseStamped.h
+visualization_msgs/Marker.h
+-
+std_msgs/Float32.h
+-
+move_base_msgs/MoveBaseAction.h
+-
+actionlib/client/simple_action_client.h
+-
+math.h
+-
+tf/transform_datatypes.h
+-
+tf/transform_listener.h
+-
+boost/pending/disjoint_sets.hpp
+-
+numeric
+-
+algorithm
+-
+

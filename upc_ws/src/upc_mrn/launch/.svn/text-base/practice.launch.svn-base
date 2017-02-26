@@ -1,0 +1,12 @@
+<!-- -->
+<launch>
+
+  <include file="$(find upc_mrn)/launch/turtlebot_world.launch">
+    <arg name="world" value="$(find upc_mrn)/models/worlds/small_room.world"/>
+  </include>
+
+  <include file="$(find upc_mrn)/launch/navigation_practice.launch"/>
+  
+  <node pkg="rviz" type="rviz" name="rviz" args="-d $(find upc_mrn)/config/room.rviz"/>
+
+</launch>

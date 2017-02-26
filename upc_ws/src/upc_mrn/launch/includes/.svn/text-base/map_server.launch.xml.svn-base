@@ -1,0 +1,10 @@
+<!-- -->
+<launch>
+  <arg name="map"  default="playground.yaml"/>
+
+  <node name="map_server"
+  pkg ="map_server"
+  type="map_server"
+  args="$(find upc_mrn)/maps/$(arg map)"/>
+
+</launch>

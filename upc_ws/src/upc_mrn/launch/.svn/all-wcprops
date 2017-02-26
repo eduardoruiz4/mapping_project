@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pub/labrobotica/!svn/ver/13916/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch
+END
+slam_project.launch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pub/labrobotica/!svn/ver/13618/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/slam_project.launch
+END
+roomba_bringup.launch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pub/labrobotica/!svn/ver/13618/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/roomba_bringup.launch
+END
+project.launch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pub/labrobotica/!svn/ver/13899/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/project.launch
+END
+navigation_local.launch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pub/labrobotica/!svn/ver/13618/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/navigation_local.launch
+END
+navigation_practice.launch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/pub/labrobotica/!svn/ver/13618/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/navigation_practice.launch
+END
+kobuki_bringup.launch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pub/labrobotica/!svn/ver/13618/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/kobuki_bringup.launch
+END
+practice.launch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pub/labrobotica/!svn/ver/13618/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/practice.launch
+END
+turtlebot_world.launch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pub/labrobotica/!svn/ver/13916/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/turtlebot_world.launch
+END
+slam.launch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pub/labrobotica/!svn/ver/13618/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/slam.launch
+END
+navigation.launch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pub/labrobotica/!svn/ver/13618/ros/iri-ros-pkg_hydro/metapackages/iri_teaching/upc_mrn/launch/navigation.launch
+END

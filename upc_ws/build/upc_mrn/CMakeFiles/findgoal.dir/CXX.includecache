@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eduardorz/upc_ws/src/upc_mrn/src/findgoal.cpp
+termios.h
+-
+stdio.h
+-
+iostream
+-
+ros/ros.h
+-
+time.h
+-
+sensor_msgs/LaserScan.h
+/home/eduardorz/upc_ws/src/upc_mrn/src/sensor_msgs/LaserScan.h
+math.h
+-
+visualization_msgs/Marker.h
+-
+move_base_msgs/MoveBaseAction.h
+-
+actionlib/client/simple_action_client.h
+-
+tf/transform_datatypes.h
+-
+

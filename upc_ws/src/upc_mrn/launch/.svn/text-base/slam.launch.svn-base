@@ -1,0 +1,8 @@
+<!-- -->
+<launch>
+
+  <include file="$(find upc_mrn)/launch/slam_project.launch" />
+
+  <node pkg="rviz" type="rviz" name="rviz" args="-d $(find upc_mrn)/config/navigation.rviz"/>
+
+</launch>
